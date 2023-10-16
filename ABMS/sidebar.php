@@ -5,12 +5,12 @@
 		<a href="#" class="brand"><i class='bx bxs-smile icon'></i><?php echo $_SESSION['username']; ?></a>
 		<ul class="side-menu">
 			<li><a href="abtc.php" class="active"><i class='bx bxs-dashboard icon' ></i> Dashboard</a></li>
-			<li class="divider" data-text="main">Transactions</li>
-			<li><a href="rabiesexposureregistry.php"><i class="bx bxs-widget icon"></i>Rabies Exposure Registry</a></li>
-			<li><a href="vaccinatedanimals.php"><i class='bx bxs-group icon'></i>Rabies Vaccination Report</a></li>
-			<li><a href="vaccinemanagement.php" ><i class='bx bxs-injection icon'></i>Human Anti-Rabies Vaccination Inventory</a></li>
+			<li class="divider" data-text="main">Main</li>
+			<li><a href="rabiesexposureregistry.php"><i class="bx bxs-widget icon"></i>Animal Bite Registry</a></li>
+			<li><a href="vaccinatedanimals.php"><i class='bx bxs-group icon'></i>Animal Vaccination Registry</a></li>
+			<li><a href="vaccinemanagement.php" ><i class='bx bxs-injection icon'></i>Human Anti-Rabies Vaccine Inventory</a></li>
 			<li><a href="humanrabiescases.php"><i class='bx bxs-report icon'></i>Human Rabies Cases</a></li>	
-			<li class="divider" data-text="Others">Transactions</li>
+			<li class="divider" data-text="Others">Others</li>
 			<li><a href="communication.php"><i class='bx bxs-conversation icon'></i>Communications</a></li>
 		</ul>
 		<!--<div class="ads">

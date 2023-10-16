@@ -30,11 +30,11 @@ $result = $con->query($query);
 
     <!-- Display vaccinated animal records -->
     <main>
-            <h1 class="title">Rabies Exposure Registry</h1>
+            <h1 class="title">Animal Bite Registry</h1>
 			<ul class="breadcrumbs">
 				<li><a href="agri.php">Dashboard</a></li>
 				<li class="divider">/</li>
-				<li><a href="#" class="active">Rabies Exposure Regsitry</a></li>
+				<li><a href="#" class="active">Animal Bite Registry</a></li>
 			</ul>
             
     </main>

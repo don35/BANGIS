@@ -30,7 +30,7 @@ $result = $con->query($query);
 
     <!-- Display vaccinated animal records -->
     <main>
-            <h1 class="title">Animal Vaccination Inventory</h1>
+            <h1 class="title">Animal Vaccine Inventory</h1>
 			<ul class="breadcrumbs">
 				<li><a href="agri.php">Dashboard</a></li>
 				<li class="divider">/</li>

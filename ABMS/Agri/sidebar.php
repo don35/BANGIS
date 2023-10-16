@@ -5,11 +5,11 @@
 		<ul class="side-menu">
 			<li><a href="agri.php" class="active"><i class='bx bxs-dashboard icon' ></i> Dashboard</a></li>
 			<li class="divider" data-text="main">Transactions</li>
-			<li><a href="rabiesvaccinationreport.php"><i class='bx bxs-dog icon'></i>Rabies Vaccination Report</a></li>
-			<li><a href="rabiesexposureregistry.php"><i class="bx bxs-widget icon"></i>Animal Bite Exposure Registry</a></li>
-			<li><a href="vaccinemanagement.php"><i class="bx bxs-injection icon" ></i>Animal Vaccination Inventory</a></li>
+			<li><a href="rabiesvaccinationreport.php"><i class='bx bxs-dog icon'></i>Animal Vaccination</a></li>
+			<li><a href="rabiesexposureregistry.php"><i class="bx bxs-widget icon"></i>Animal Bite Registry</a></li>
+			<li><a href="vaccinemanagement.php"><i class="bx bxs-injection icon" ></i>Animal Vaccine Inventory</a></li>
 			<li><a href="rabiessamplesubmission.php"><i class='bx bxs-note icon'></i>Rabies Sample Submission</a></li>
-			<li><a href="clinicallabreport.php"><i class='bx bxs-cylinder icon	'></i>Clinical Lab Report</a></li>
+			<li><a href="clinicallabreport.php"><i class='bx bxs-cylinder icon'></i>Clinical Lab Report</a></li>
 			<li class="divider" data-text="Others">Transactions</li>
 			<li><a href="communication.php"><i class='bx bxs-conversation icon'></i>Communications</a></li>
 

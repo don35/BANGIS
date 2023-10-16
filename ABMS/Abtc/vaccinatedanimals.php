@@ -31,11 +31,11 @@ if (!isset($_SESSION["userid"]) || $_SESSION['role'] !== 'ABTC') {
 
     <!-- Display vaccinated animal records -->
     <main>
-            <h1 class="title">Vaccinated Animals</h1>
+            <h1 class="title">Animal Vaccination Registry</h1>
 			<ul class="breadcrumbs">
 				<li><a href="abtc.php">Dashboard</a></li>
 				<li class="divider">/</li>
-				<li><a href="#" class="active">Vaccinated Animals</a></li>
+				<li><a href="#" class="active">Animal Vaccination Registry</a></li>
 			</ul>
     </main>
 
